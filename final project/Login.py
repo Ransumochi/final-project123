@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 class LoginApp:
 
-#panget moooo
+#clarence ebina
     def __init__(self, root):
         self.root = root
         self.root.title("Login Page")
