@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 class LoginApp:
 
-#123456678788
+#1234
     def __init__(self, root):
         self.root = root
         self.root.title("Login Page")
